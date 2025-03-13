@@ -48,7 +48,6 @@ This Spring Boot application calculates the total payable amount for a bill in a
    ```properties
    exchange.api.url=https://open.er-api.com/v6/latest/
    exchange.api.key=YOUR_API_KEY_HERE
-   security.jwt.secret=YOUR_SECRET_KEY
    ```
 3. Build the project:
    ```sh
